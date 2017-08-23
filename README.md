@@ -9,7 +9,7 @@ Category
   |--[Year]-[Conference]-[Title]-[The First Author]
        |
        |--[Title]-[The First Author].pdf
-       |--[Title]-[The First Author]-[Note Author].pdf
+       |--[Title]-[The First Author]-[Note Author]-note.pdf
 ```
 
 - [Graphi Computing](./GraphComputing/)
