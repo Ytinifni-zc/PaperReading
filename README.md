@@ -12,4 +12,4 @@ Category
        |--[Title]-[The First Author]-[Note Author]-note.pdf
 ```
 
-- [Graphi Computing](./GraphComputing/)
+- [Graph Computing](./GraphComputing/)
